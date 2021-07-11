@@ -1,0 +1,4 @@
+<settings>
+    <!-- Local Maven dependencies go to {project root}/repository -->
+    <localRepository>repository</localRepository>
+</settings>
